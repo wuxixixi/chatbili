@@ -1,0 +1,8 @@
+langchain
+langchain-community
+faiss-cpu
+chromadb
+streamlit
+python-dotenv
+qianfan
+bilibili-api-python
